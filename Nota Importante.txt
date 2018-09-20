@@ -1,0 +1,8 @@
+Nota Importante:
+No va a correr el programa porque yo cree la base de datos alquiler que esta en mi xampp.
+
+Mi power architect esta en este proyecto
+
+
+Todo sale bien tanto en el enlace y en la internalizacion.
+ 

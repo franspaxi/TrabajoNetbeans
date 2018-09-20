@@ -1,0 +1,21 @@
+Dentro de la base de datos Alquiler esta todos estos datos.
+persona
+1 frans paxi 40590197 930590197 Ingeniería de Sistemas
+2 Fernando Guzman 40590654 930590852 Administración de Empresas
+3 Keyla Copa 45441896 930590951 Psicología
+4 Maria Estrada 45441874 930590753
+alquiler
+1 01/09/2018 30/09/2018 300soles 1
+2 01/09/2018 31/10/2018 600soles 2
+3 01/10/2018 31/10/2018 300soles 3
+4 01/09/2018 30/11/2018 900soles 4
+comida
+1 20 20 20 300soles vinoacomertodoslosdias 1
+2 20 15 12 150soles 25/09/2018NC 26/09/2018NA 2
+3 30 30 30 500soles comiotodoslosdias 3
+4 50 50 50 900soles comiotodoslosdias 4
+total
+1 1 1 1 600soles
+2 2 2 2 750soles
+3 3 3 3 800soles
+4 4 4 4 1800soles
